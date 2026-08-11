@@ -1,2 +1,0 @@
-# sales.dashboard
-Sales Dashboard
